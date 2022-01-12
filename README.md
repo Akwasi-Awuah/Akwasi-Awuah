@@ -1,4 +1,5 @@
-- 👋 Hello, I’m Akwasi, a curious thinker and passionate about the power of data in supoorting business decisions. I have a dual masters degree in International Business and Business Analytics from Hult International Business school. This journey brought me to the universe
+- 👋 Hello, I’m Akwasi
+- a curious thinker and passionate about the power of data in supoorting business decisions. I have a dual masters degree in International Business and Business Analytics from Hult International Business school. This journey brought me to the universe
 of GitHub to support my passion for data analytics and expand my knowledge.
 
 I love arts and music. You can also find me playing a soccer game or watching some of my favorite tv shows like Breaking Bad.
