@@ -1,5 +1,5 @@
 - 👋 Hello, I’m Akwasi, a curious thinker and passionate about the power of data in supoorting business decisions. With a bachelors in engineering with experience in the consulting 
-industry. I am currently earning a masters dual degree in International Business and Business Analytics at Hult International Business school. This journey brought me to the universe
+industry. I have a dual masters degree in International Business and Business Analytics at Hult International Business school. This journey brought me to the universe
 of GitHub to support my passion for data analytics and expand my knowledge.
 
 
